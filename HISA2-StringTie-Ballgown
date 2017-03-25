@@ -1,5 +1,5 @@
 
-![Aaron Swartz](https://github.com/yongzhiyang2012/Transcriptome_analysis/tree/master/image/Hisat-pipline.png)
+![image](https://github.com/yongzhiyang2012/Transcriptome_analysis/tree/master/image/Hisat-pipline.png)
 
 第一步：Hisat 比对。
 使用方法非常类似 Bowtie2 等，先建库，再比对，没有添加其他的非默认参数。
