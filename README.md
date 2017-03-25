@@ -1,5 +1,5 @@
 ### Transcriptome_analysis  
-##Create by Wenchun Luo, Caihua Zhang, Yongzhi Yang. Date: Sat Mar 25 11:04:06 CST 2017  
+Create by Wenchun Luo, Caihua Zhang, Yongzhi Yang. Date: Sat Mar 25 11:04:06 CST 2017##  
   
 Tophat2->cufflinks->cuffdiff/edger/DEGseq  
 HISAT2->StringTie->Ballgown  
